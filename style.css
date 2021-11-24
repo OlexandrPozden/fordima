@@ -1,0 +1,37 @@
+body,
+input,
+textarea {
+    font-family: sans-serif;
+}
+
+div {
+    margin-bottom: 10px;
+}
+
+.getPos~* {
+    margin-left: 5px;
+}
+
+.copyText,
+.getPos,
+input {
+    width: 200px;
+    padding: 2px 3px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+div.editable {
+    width: 300px;
+    height: 200px;
+    border: 1px solid #ccc;
+    padding: 5px;
+}
+
+select {
+    width: 150px;
+}
+
+input {
+    width: 5em;
+}
